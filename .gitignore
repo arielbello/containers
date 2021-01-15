@@ -1,0 +1,5 @@
+#python stuff
+__pycache__
+
+#os stuff
+.DS_Store
